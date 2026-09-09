@@ -1,0 +1,24 @@
+h1 {
+  color: purple;
+  text-align: center;
+}
+
+h2 {
+  font-size: 23px;
+  text-align: center;
+}
+
+h3 {
+  font-style: normal;
+  text-align: center;
+}
+
+p {
+  font-weight: bold;
+  text-align: center;
+}
+
+ui {
+  font-family: 'lucida Sans';
+  line-height: 28px;
+}
